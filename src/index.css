@@ -1,0 +1,31 @@
+body{
+  font-family: sans-serif;
+  color: #00425A;
+  margin: 0;
+  padding: 0;
+  background-image:   url("https://timesofindia.indiatimes.com/thumb/msid-80131937,width-1200,height-900,resizemode-4/.jpg");
+}
+
+.header{
+  text-align: center;
+  vertical-align: center;
+}
+.row{
+  height: 60vh;
+}
+.col-md-6{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cover{
+  padding: 3%;
+  width: 60%;
+  background-color: #F5F5F5;
+  border-radius: 10px;
+}
+
+.view-container{
+    width: auto;
+}
